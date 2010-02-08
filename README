@@ -1,0 +1,5 @@
+This little utility was used to generate 100 unique invite codes for some special business cards everyone needed.  It takes an image called template.png and overlays a random 6 character alphanumeric code before saving the image to "images/<CODE>.png".
+
+You will need to customize the X,Y position in the python code.
+
+These images were then printed to mini-cards at moo.com.
